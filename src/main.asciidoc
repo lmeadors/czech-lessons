@@ -1,0 +1,50 @@
+Czech English Camp 2014 - Seasons
+=================================
+
+:doctype: book
+
+:toc:
+
+
+== Ideas ==
+
+* Daily Sections
+** Review / Questions
+** Months
+** Holidays
+*** Birthdays
+*** Name days
+** Seasonal Activities
+** Weather
+** Review / Questions
+
+include::07-20-sunday.asciidoc[]
+include::07-21-monday.asciidoc[]
+include::07-22-tuesday.asciidoc[]
+include::07-23-wednesday.asciidoc[]
+include::07-24-thursday.asciidoc[]
+include::07-25-friday.asciidoc[]
+
+== Extra Content
+
+Definitions
+~~~~~~~~~~~
+
+Homograph::
+  A word that has the same spelling as another word but has a different sound and a different meaning. "A leader can lead unless he is made of lead."
+
+Homophone::
+  A word that has the same sound as another word but is spelled differently and has a different meaning. "Bullets are made of lead, and soldiers are led."
+
+Homonym::
+  Words that share the same spelling and pronunciation but have different meanings. "If a duck flies at you, you should duck."
+
+Other ideas
+~~~~~~~~~~~
+
+* Games?
+** Card games - 3-4 decks = lots of games
+*** nerts?
+*** others?
+** Role reversal - teach us a game!
+*** Raining(?)
