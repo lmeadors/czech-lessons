@@ -5,19 +5,6 @@ Czech English Camp 2014 - Seasons
 
 :toc:
 
-
-== Ideas ==
-
-* Daily Sections
-** Review / Questions
-** Months
-** Holidays
-*** Birthdays
-*** Name days
-** Seasonal Activities
-** Weather
-** Review / Questions
-
 include::07-20-sunday.asciidoc[]
 include::07-21-monday.asciidoc[]
 include::07-22-tuesday.asciidoc[]

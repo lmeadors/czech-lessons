@@ -2,19 +2,38 @@
 
 30 minutes
 
-* Ice-breaker / introductions
-** Who is here for the first time?
-** Who has been here before?
-** Beach ball?
-** Expectations?
-*** Class? 
-*** Conversations?
-** Options
-*** If we have extra content, what do we want to drop?
-*** Are there things people want to spend more time on?
+=== Ice-breaker / introductions ===
 
-* Plan for the week
-** one season per day
-*** schedule / structure?
-** last day is review
+* Who is here for the first time?
+
+* Who has been here before?
+
+* What are your expectations?
+** More teaching?
+** More conversations?
+** Are there things people want to spend more time on?
+
+* Beach ball questions
+** What is your favorite food?
+** What is your favorite color?
+** What is your favorite pet?
+** What kind of music do you like?
+** What do you want to learn this week?
+** What is your favorite holiday?
+
+=== Plan for the week ===
+
+* One season per day
+* Daily Pattern
+** Review / Questions
+** Months
+** Holidays
+*** Birthdays
+*** Name days
+** Seasonal Activities
+** Weather
+** Lesson time
+** Review / Questions
+
+* last day is review
 

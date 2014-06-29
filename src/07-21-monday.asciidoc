@@ -21,7 +21,6 @@ Name days in spring?
 
 === Spring Holidays ===
 
-
 * Easter
 * May day
 * St Patrick's Day

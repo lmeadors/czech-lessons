@@ -224,7 +224,7 @@ U.S. Currency
 4. Worth its weight in gold
 From A to Z 
 5. No way!
-6. Callitaday
+6. Call it a day
 7. Behind the eight ball
 8. Get away from it all
 9. Your guess is as good as mine.
@@ -232,7 +232,8 @@ From A to Z
 11.Say goodnight Gracie
 12.Break the news
 13.Go out on a limb
-14.Everything but the kitchen sink 15.Fools' gold
+14.Everything but the kitchen sink 
+15.Fools' gold
 16.Quiet as a mouse
 17.Sick as a dog
 18.Lucky break
@@ -241,7 +242,8 @@ From A to Z
 1.Be able to fly or read minds?
 Know the truth or let some stuff stay a secret? Save yourself or save your siblings?
 Stop war or world hunger?
-1. Just what the doctor ordered 2. Throw someone for a loop
+1. Just what the doctor ordered 
+2. Throw someone for a loop
 3. Beat around the bush
 4. Burning the midnight oil
 6. 

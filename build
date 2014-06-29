@@ -3,7 +3,6 @@ export XML_CATALOG_FILES="/usr/local/etc/xml/catalog"
 
 mkdir out > /dev/null 2>&1
 
-#asciidoc -a toc -o ./out/book.html src/main.asciidoc
-a2x -v -fpdf -dbook --fop src/main.asciidoc && mv src/main.pdf out/
-
+asciidoc -a toc -o ./out/book.html src/main.asciidoc
+#a2x -fpdf -dbook --fop src/main.asciidoc && mv src/main.pdf out/
 #a2x -fepub -dbook src/main.asciidoc --destination-dir out
