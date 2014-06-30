@@ -1,8 +1,19 @@
 == Sunday 7-20
 
-30 minutes
+=== Ice-breaker / introductions (25m) ===
 
-=== Ice-breaker / introductions ===
+****************************************************************************
+Time estimate: 25 minutes
+****************************************************************************
+
+* Hello, my name is [underline]#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#.
+* Beach ball questions
+** What is your favorite food?
+** What is your favorite color?
+** What is your favorite pet?
+** What kind of music do you like?
+** What do you want to learn this week?
+** What is your favorite holiday?
 
 * Who is here for the first time?
 
@@ -13,15 +24,12 @@
 ** More conversations?
 ** Are there things people want to spend more time on?
 
-* Beach ball questions
-** What is your favorite food?
-** What is your favorite color?
-** What is your favorite pet?
-** What kind of music do you like?
-** What do you want to learn this week?
-** What is your favorite holiday?
 
-=== Plan for the week ===
+=== Plan for the week (5m) ===
+
+****************************************************************************
+Time estimate: 5 minutes
+****************************************************************************
 
 * One season per day
 * Daily Pattern
@@ -35,5 +43,5 @@
 ** Lesson time
 ** Review / Questions
 
-* last day is review
+* Last day is review
 
