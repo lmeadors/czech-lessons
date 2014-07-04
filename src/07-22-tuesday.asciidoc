@@ -1,4 +1,4 @@
-== Tuesday 7-22 - Summer (110m)
+== Tuesday 7-22 - Summer (50m)
 
 === Review from Monday (20m) ===
 
@@ -21,49 +21,18 @@ Birthdays in summer?
 
 Name days in summer?
 
-=== Summer Holidays (20m) ===
+=== Summer Holidays in the US (20m) ===
 
 ****************************************************************************
 Time estimate: 20 minutes
 ****************************************************************************
 
-* End of school year
-* 4th of July
-* Labor day
-
-=== Story dice (30m) ===
-
-****************************************************************************
-Time estimate: 30 minutes
-****************************************************************************
-
-Someone rolls the dice and starts the story.
-Go around the table and each person rolls the dice and continues the story.
-
-=== Idioms (30m) ===
-
-****************************************************************************
-Time estimate: 30 minutes
-****************************************************************************
-
-Here are some idioms that we use some times.
-
-1. Third times a charm
-2. Like a chicken with its head cut off
-3. Never bite the hand that feeds you
-4. Great minds think alike
-5. A taste of your own medicine
-6. All bark and no bite
-7. Drive someone up the wall
-8. The ball is in your court
-9. A Dime a dozen
-10. It’s a small world
-11. Knee jerk reaction
-12. Pass the buck
-13. Hit rock bottom
-14. The crack of dawn
-15. Hit the road
-16. Sleep on it
-17. Lost in thought
-18. Play it by ear
-
+[width="70%",options="header"]
+|=======
+| Day of week | Date   | Holiday
+| Saturday    | Jun 21 | June Solstice
+| Friday      | Jul 4  | Independence Day
+| Monday      | Sep 1  | Labor Day
+| Sunday      | Sep 7  | National Grandparents Day
+| Tuesday     | Sep 23 | September equinox
+|=======

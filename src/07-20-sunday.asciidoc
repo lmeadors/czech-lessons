@@ -1,4 +1,4 @@
-== Sunday 7-20
+== Sunday 7-20 (30m)
 
 === Ice-breaker / introductions (25m) ===
 
@@ -6,19 +6,13 @@
 Time estimate: 25 minutes
 ****************************************************************************
 
-* Hello, my name is [underline]#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#.
 * Beach ball questions
-** What is your favorite food?
-** What is your favorite color?
-** What is your favorite pet?
-** What kind of music do you like?
-** What do you want to learn this week?
-** What is your favorite holiday?
-
+** Hello, my name is [underline]#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#.
+** Read the question
+** Answer the question
+** Pass the ball
 * Who is here for the first time?
-
 * Who has been here before?
-
 * What are your expectations?
 ** More teaching?
 ** More conversations?

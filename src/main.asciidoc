@@ -39,6 +39,6 @@ Other ideas
 Shopping / supply list
 ~~~~~~~~~~~~~~~~~~~~~~
 
-* name tags
+* name tags [DONE]
 * gifts [DONE]
 * story dice

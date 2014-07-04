@@ -25,13 +25,20 @@ Name days in spring?
 Time estimate: 20 minutes
 ****************************************************************************
 
-* St Patrick's Day - March 17th
-* April Fools' Day - April 1st
-* Easter - Date varies from March 22 to April 25
-* May day - May 1st
-* Mother's Day - Second Sunday in May
-* Memorial Day - Last monday in May
-* Father's Day - Third Sunday in June
+[width="50%",options="header"]
+|=======
+| Day of week | Date   | Holiday
+| Thursday    | Mar 20 | March equinox
+| Tuesday     | Apr 1  | April Fools' Day
+| Sunday      | Apr 20 | Easter Sunday
+| Tuesday     | Apr 15 | Tax Day
+| Thursday    | May 1  | May day
+| Sunday      | May 11 | Mother's Day
+| Monday      | May 26 | Memorial Day
+| Sunday      | Jun 15 | Father's Day
+| Saturday    | Jun 21 | June Solstice
+|=======
+
 
 === Verbing (20m) ===
 

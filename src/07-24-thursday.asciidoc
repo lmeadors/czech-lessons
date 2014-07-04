@@ -1,30 +1,37 @@
-== Thursday 7-24 - Winter?
+== Thursday 7-24 - Winter (50m)
 
-4 hours of content
+=== Review from Wednesday (20m) ===
+
+****************************************************************************
+Time estimate: 20 minutes
+****************************************************************************
+
+* Any questions?
+
+
+=== Winter Months (10m) ===
 
 Winter dates - December 21 to March 20
-
-=== Winter Months ===
 
 * December
 * January
 * February
 * March
 
-=== Winter Holidays ===
+=== Winter Holidays in the US (20m) ===
 
-* Sunday	Dec 21	December Solstice	Season	 
-* Wednesday	Dec 24	Last Day of Chanukah	Jewish holiday	 
-* Wednesday	Dec 24	Christmas Eve	State holiday	KS*, KY, MI, NC, ND, OK, SC, TX, VA*, WI
-* Wednesday	Dec 24	Christmas Eve	Observance, Christian	 
-* Thursday	Dec 25	Christmas Day	National holiday, Christian	 
-* Friday	Dec 26	Kwanzaa (until Jan 1)	Observance	 
-* Friday	Dec 26	Day After Christmas Day	State holiday	KS, NC, NH, SC, TX, VA
-* Friday	Dec 26	Washington's Birthday	State holiday	Indiana
-* Wednesday	Dec 31	New Year's Eve	State holiday	KY, MI, WI
-* Wednesday	Dec 31	New Year's Eve	Observance
-* Thursday	Jan 1	New Year's Day	National holiday	 
-* Monday	Feb 2	Groundhog Day	Observance	 
-* Saturday	Feb 14	Valentine's Day	Observance	 
-* Sunday	Mar 8	Daylight Saving Time starts	Clock change/Daylight Saving Time	 
-* Tuesday	Mar 17	St. Patrick's Day	Observance	 
+[width="70%",options="header"]
+|=======
+| Day of week | Date   | Holiday
+| Sunday      | Dec 21 | December Solstice
+| Wednesday   | Dec 24 | Christmas Eve
+| Thursday    | Dec 25 | Christmas Day
+| Wednesday   | Dec 31 | New Year's Eve
+| Thursday    | Jan 1  | New Year's Day
+| Monday      | Feb 2  | Groundhog Day
+| Saturday    | Feb 14 | Valentine's Day
+| Sunday      | Mar 8  | Daylight Saving Time starts "spring forward"
+| Tuesday     | Mar 17 | St. Patrick's Day
+| Thursday    | Mar 20 | March equinox
+|=======
+
