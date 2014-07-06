@@ -42,3 +42,4 @@ Shopping / supply list
 * name tags [DONE]
 * gifts [DONE]
 * story dice
+* cards (5 decks)

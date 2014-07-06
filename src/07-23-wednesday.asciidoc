@@ -1,5 +1,9 @@
 == Wednesday 7-23 - Autumn / Fall (170m)
 
+Name tag question: LEAST favorite food?
+
+What is the Czech word of the day?
+
 === Review from Tuesday (20m) ===
 
 ****************************************************************************
@@ -23,7 +27,7 @@ Name days in fall?
 
 === Fall holidays in the US (20m) ===
 
-[width="70%",options="header"]
+[width="70%",options="header",cols="3,2,5"]
 |=======
 | Tuesday | Sep 23 | September equinox
 | Monday | Oct 13 | Columbus Day

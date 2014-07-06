@@ -1,5 +1,9 @@
 == Thursday 7-24 - Winter (50m)
 
+Name tag question: Favorite time of the year?
+
+What is the Czech word of the day?
+
 === Review from Wednesday (20m) ===
 
 ****************************************************************************
@@ -8,6 +12,9 @@ Time estimate: 20 minutes
 
 * Any questions?
 
+=== Czech word of the day ===
+
+What is today's word?
 
 === Winter Months (10m) ===
 
@@ -20,7 +27,7 @@ Winter dates - December 21 to March 20
 
 === Winter Holidays in the US (20m) ===
 
-[width="70%",options="header"]
+[width="70%",options="header",cols="3,2,5"]
 |=======
 | Day of week | Date   | Holiday
 | Sunday      | Dec 21 | December Solstice
@@ -35,3 +42,20 @@ Winter dates - December 21 to March 20
 | Thursday    | Mar 20 | March equinox
 |=======
 
+=== Idioms - Work (30m) ===
+
+[options="header",cols="2,3"]
+|=======
+| Term                            | Meaning
+| Bite off more than one can chew | To take on more responsibility than one can manage.
+| Burn the midnight oil           | To work late into the night, alluding to the time before electric lighting.
+| By the seat of one's pants      | To achieve through instinct or do something without advance preparation.
+| By the skin of one's teeth      | Narrowly; barely. Usually used in regard to a narrow escape from a disaster.
+| Call it a day                   | To declare the end of a task.
+| Cut the mustard                 | To perform well; to meet expectations.
+| In the black                    | To be making money.
+| In the red                      | To be losing money.
+| Living hand to mouth            | To be poor, to have difficulty supporting yourself.
+| On the ball                     | To be paying attention, to respond promptly, to be doing one's job.
+| Piece of cake                   | A job, task or other activity that is pleasant – or, by extension, easy or simple.
+|=======

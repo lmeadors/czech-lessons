@@ -1,5 +1,9 @@
 == Tuesday 7-22 - Summer (50m)
 
+Name tag question: Favorite color?
+
+What is the Czech word of the day?
+
 === Review from Monday (20m) ===
 
 ****************************************************************************
@@ -27,7 +31,7 @@ Name days in summer?
 Time estimate: 20 minutes
 ****************************************************************************
 
-[width="70%",options="header"]
+[width="70%",options="header",cols="3,2,5"]
 |=======
 | Day of week | Date   | Holiday
 | Saturday    | Jun 21 | June Solstice
