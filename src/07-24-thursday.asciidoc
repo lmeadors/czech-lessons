@@ -70,11 +70,40 @@ What words do we recognize? Descriptive words from previously.
 
 Practice ordering:
 
-* Phrases like: May I have ?
-* Does this have ?
-* Are the tacos too ?
-* I would like a cheeseburger without ...
+* Phrases like: May I have [underline]#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#?
+* Does this have [underline]#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#?
+* Are the tacos too [underline]#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#?
+* I would like a cheeseburger without [underline]#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#.
 
+=== Explain Thanksgiving ===
+
+Thanksgiving is a very American holiday. It is celebrated on the fourth Thursday in November every year. It used to be a religious holiday to give thanks to God for the early settlers, or Pilgrims, arriving in America safely. Thanksgiving is also meant to give thanks to Native Americans for teaching the pilgrims how to catch eels and grow corn in Plymouth, Massachusetts. 
+
+In 1941, President Roosevelt made Thanksgiving a federal holiday.
+
+The main event of any Thanksgiving is the Thanksgiving dinner. It is traditional to have baked or roasted turkey. This is usually accompanied with mashed potatoes, sweet potatoes, fall vegetables, cranberry sauce, and gravy. Pumpkin pie is the most commonly eaten dessert. 
+
+The Thanksgiving holiday weekend is one of the busiest times of the year for traveling. It is a four-day or five-day weekend vacation for most schools and colleges, and many businesses and government workers get three or four days off. 
+
+Thanksgiving is also the unofficial signal for Christmas preparations to begin. Once Thanksgiving finishes, stores fill their shelves with Christmas goods.
+
+Hold up and explain each Traditional Food with corresponding picture: 
+
+* mashed potatoes
+* green bean casserole
+* stuffing
+* cranberry sauce
+* turkey
+* sweet potatoes
+
+
+Take turns saying what we are thankful for
+
+Mock thanksgiving
+
+*	What everyone is thankful for?
+*	Pass food
+*	Comment on food
 
 === Idioms - Work (30m) ===
 
@@ -93,3 +122,8 @@ Practice ordering:
 | On the ball                     | To be paying attention, to respond promptly, to be doing one's job.
 | Piece of cake                   | A job, task or other activity that is pleasant – or, by extension, easy or simple.
 |=======
+
+=== Review ===
+
+Grocery Game
+
