@@ -1,6 +1,6 @@
 #!/bin/bash
 export XML_CATALOG_FILES="/usr/local/etc/xml/catalog"
 
-#asciidoc -a toc -o ./out/book.html src/main.asciidoc
-a2x -fpdf -dbook --fop src/main.asciidoc && mv src/main.pdf out/
+asciidoc -a toc -o ./out/book.html src/main.asciidoc
+#a2x -fpdf -dbook --fop src/main.asciidoc && mv src/main.pdf out/
 #a2x -fepub -dbook src/main.asciidoc --destination-dir out

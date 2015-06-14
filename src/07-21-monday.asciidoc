@@ -1,27 +1,31 @@
 == Monday 7-21 - Food (160m)
 
 
-=== Ice breaker / Introduction ===
+=== Ice breaker / Introduction
 
 ****************************************************************************
 Time estimate: 15 minutes (15/160)
 ****************************************************************************
 
-More introductions
+==== Tell us about yourself
+* What is your name?
+** Hello, my name is Larry.
+* What is your wife/husband's name, and are they here?
+** My wife's name is Darla and she is here at camp teaching the Adult-3 class.
+* Do you have a job?
+** I work from my home as a computer programmer. 
+* Do you have any hobbies?
+** When I am not working, I like to play guitar, ride my bike, ski, or kayak.
 
-* Tell us about yourself
-** Family - spouse? children? siblings?
-* Work
-* Hobbies
 
-Name tag question
+==== Name tag question
 
 * Favorite way to spend your afternoon?
 
-What is the Czech word of the day?
+==== What is the Czech word of the day?
 
 
-=== Grocery shopping ===
+=== Grocery shopping
 
 ****************************************************************************
 Time estimate: 45 minutes (60/160)
@@ -62,6 +66,7 @@ Tell us about your family!
 ^| Daughter          ^| Son
 ^| Niece             ^| Nephew
 ^| Sister            ^| Brother
+^| Wife              ^| Husband
 2+^| Cousin
 ^| Mother / Mom      ^| Father / Dad
 ^| Aunt              ^| Uncle 
