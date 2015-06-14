@@ -39,7 +39,7 @@ Other ideas
 Shopping / supply list
 ~~~~~~~~~~~~~~~~~~~~~~
 
-* name tags [DONE]
-* gifts [DONE]
+* name tags
+* gifts
 * story dice
 * cards (5 decks)
