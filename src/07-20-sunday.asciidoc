@@ -1,6 +1,10 @@
-== Sunday 7-20 (30m)
+== Sunday 7-20 ==
 
-=== Ice-breaker / introductions (25m) ===
+****************************************************************************
+Target time: 30 minutes
+****************************************************************************
+
+=== Ice-breaker / introductions ===
 
 ****************************************************************************
 Time estimate: 25 minutes
@@ -19,16 +23,18 @@ Time estimate: 25 minutes
 ** Are there things people want to spend more time on?
 
 
-=== Plan for the week (5m) ===
+=== Plan for the week ===
 
 ****************************************************************************
 Time estimate: 5 minutes
 ****************************************************************************
 
-* One season per day
-* Daily Pattern
-** Review / Questions
-** Months
+* Different type of shopping each day
+* Daily Structure
+** Name tags with daily questions
+** Review of yesterday 
+** Questions about yesterday
+** Overview
 ** Holidays
 *** Birthdays
 *** Name days
