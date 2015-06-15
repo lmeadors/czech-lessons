@@ -1,0 +1,18 @@
+=== Grocery shopping
+
+****************************************************************************
+Time estimate: 45 minutes (60/160)
+****************************************************************************
+
+I am going to the store and I am going to buy:
+
+- "A" = Apple
+- "B" = Bread
+- "C" = ??
+
+Each time, the person who is deciding what to get says everything on the list:
+
+- apple
+- apple, bread
+- apple, bread, ??
+

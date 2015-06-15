@@ -1,0 +1,24 @@
+=== Family relationships
+
+****************************************************************************
+Time estimate: 25 minutes
+****************************************************************************
+
+Tell us about your family!
+
+[width="50%",options="header"]
+|=======
+^| Female            ^| Male
+^| Granddaughter     ^| Grandson
+^| Daughter          ^| Son
+^| Niece             ^| Nephew
+^| Sister            ^| Brother
+^| Wife              ^| Husband
+2+^| Cousin
+^| Mother / Mom      ^| Father / Dad
+^| Aunt              ^| Uncle 
+^| Grandmother       ^| Grandfather
+^| Great Grandmother ^| Great Grandfather
+|=======
+
+

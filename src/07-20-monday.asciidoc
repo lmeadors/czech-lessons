@@ -4,8 +4,6 @@
 Target time: 160 minutes
 ****************************************************************************
 
-
-
 === Ice breaker / Introduction
 
 ****************************************************************************
@@ -28,89 +26,10 @@ Time estimate: 15 minutes (15/160)
 
 ==== What is the Czech word of the day?
 
-
-
-=== Grocery shopping
-
-****************************************************************************
-Time estimate: 45 minutes (60/160)
-****************************************************************************
-
-I am going to the store and I am going to buy:
-
-- "A" = Apple
-- "B" = Bread
-- "C" = ??
-
-Each time, the person who is deciding what to get says everything on the list:
-
-- apple
-- apple, bread
-- apple, bread, ??
-
-
-
-=== Guess Who
-
-****************************************************************************
-Time estimate: 30 minutes (90/160)
-****************************************************************************
-
-Choose one person in class and try to describe them in as few words as possible.
-
-
-
-=== Family relationships
-
-****************************************************************************
-Time estimate: 25 minutes (115/160)
-****************************************************************************
-
-Tell us about your family!
-
-[width="50%",options="header"]
-|=======
-^| Female            ^| Male
-^| Granddaughter     ^| Grandson
-^| Daughter          ^| Son
-^| Niece             ^| Nephew
-^| Sister            ^| Brother
-^| Wife              ^| Husband
-2+^| Cousin
-^| Mother / Mom      ^| Father / Dad
-^| Aunt              ^| Uncle 
-^| Grandmother       ^| Grandfather
-^| Great Grandmother ^| Great Grandfather
-|=======
-
-
-
-=== Idioms
-
-****************************************************************************
-Time estimate: 25 minutes (140/160)
-****************************************************************************
-
-1.  Give it a shot
-2.  Give it a whirl
-3.  Mind your own business
-4.  Over the moon
-5.  Par for the course
-6.  Pay through the nose
-7.  A quick fix
-8.  Rock the boat
-9.  Ring a bell
-10.  Rub it in
-11.  Zip it!
-12.  A bad hair day
-13.  Barking up the wrong tree
-14.  A little bird told me
-15.  Leave a bad taste in someone's mouth 
-16.  Tie the knot
-17.  Keep a low profile
-18.  On the fence
-
-
+include::groceries-a-to-z.asciidoc[]
+include::guess-who.asciidoc[]
+include::family-relationships.asciidoc[]
+include::idioms.asciidoc[]
 
 === Review
 
