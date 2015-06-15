@@ -1,0 +1,24 @@
+=== Clothing Names
+
+****************************************************************************
+Time estimate: 30 minutes
+****************************************************************************
+
+==== Underclothes?
+
+==== Shirts / Tops
+
+* shirt
+* sweater
+* sweatshirt / hoodie
+* blouse
+
+==== Pants / Bottoms
+
+* pants
+* shorts
+
+==== Shoes / Feet
+
+* tennis shoes
+* boots
