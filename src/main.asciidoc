@@ -5,12 +5,18 @@ Czech English Camp 2015 - Shopping
 
 :toc:
 
-include::07-20-sunday.asciidoc[]
-include::07-21-monday.asciidoc[]
-include::07-22-tuesday.asciidoc[]
-include::07-23-wednesday.asciidoc[]
-include::07-24-thursday.asciidoc[]
-include::07-25-friday.asciidoc[]
+// intro
+include::07-19-sunday.asciidoc[]
+// food and family
+include::07-20-monday.asciidoc[]
+// clothing
+include::07-21-tuesday.asciidoc[]
+// shelter
+include::07-22-wednesday.asciidoc[]
+// fun
+include::07-23-thursday.asciidoc[]
+// review
+include::07-24-friday.asciidoc[]
 
 == Extra Content
 

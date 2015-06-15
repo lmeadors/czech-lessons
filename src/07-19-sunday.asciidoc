@@ -1,13 +1,15 @@
-== Sunday 7-20 ==
+== Sunday 7-19 ==
 
 ****************************************************************************
 Target time: 30 minutes
 ****************************************************************************
 
-=== Ice-breaker / introductions ===
+
+
+=== Ice-breaker / introductions
 
 ****************************************************************************
-Time estimate: 25 minutes
+Time estimate: 25 minutes (25/30)
 ****************************************************************************
 
 * Beach ball questions
@@ -23,10 +25,11 @@ Time estimate: 25 minutes
 ** Are there things people want to spend more time on?
 
 
-=== Plan for the week ===
+
+=== Plan for the week
 
 ****************************************************************************
-Time estimate: 5 minutes
+Time estimate: 5 minutes (30/30)
 ****************************************************************************
 
 * Different type of shopping each day
@@ -43,5 +46,5 @@ Time estimate: 5 minutes
 ** Lesson time
 ** Review / Questions
 
-* Last day is review
+* Friday is review
 
