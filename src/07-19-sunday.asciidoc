@@ -13,7 +13,7 @@ Time estimate: 25 minutes (25/30)
 ****************************************************************************
 
 * Beach ball questions
-** Hello, my name is [underline]#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#.
+** Hello, my name is ____.
 ** Read the question
 ** Answer the question
 ** Pass the ball
