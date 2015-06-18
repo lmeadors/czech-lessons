@@ -127,7 +127,5 @@ Mock thanksgiving
 |=======
 
 
-=== Review ===
-
-Grocery Game
+include::review.asciidoc[]
 

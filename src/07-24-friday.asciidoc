@@ -9,8 +9,14 @@ We want to help the teacher for next year do better...
 {empty} +
 {empty} +
 {empty} +
+{empty} +
+{empty} +
+{empty} +
 
 * what was bad?
+{empty} +
+{empty} +
+{empty} +
 {empty} +
 {empty} +
 {empty} +
@@ -19,13 +25,22 @@ We want to help the teacher for next year do better...
 {empty} +
 {empty} +
 {empty} +
+{empty} +
+{empty} +
+{empty} +
 
 * what could have been skipped?
 {empty} +
 {empty} +
 {empty} +
+{empty} +
+{empty} +
+{empty} +
 
 * any other thoughts?
+{empty} +
+{empty} +
+{empty} +
 {empty} +
 {empty} +
 {empty} +

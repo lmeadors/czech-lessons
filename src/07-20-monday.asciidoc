@@ -24,16 +24,15 @@ Time estimate: 15 minutes (15/160)
 
 * Favorite way to spend your afternoon?
 
-==== What is the Czech word of the day?
+==== What is the Czech word of the day? ====
+
+* testing
+
 
 include::groceries-a-to-z.asciidoc[]
 include::guess-who.asciidoc[]
 include::family-relationships.asciidoc[]
 include::idioms.asciidoc[]
 
-=== Review
-
-****************************************************************************
-Time estimate: 20 minutes (160/160)
-****************************************************************************
+include::review.asciidoc[]
 

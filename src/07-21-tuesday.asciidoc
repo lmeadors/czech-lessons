@@ -22,6 +22,8 @@ Time estimate: 15 minutes
 
 ==== What is the Czech word of the day?
 
+* testing 
+
 ==== Review from Monday
 
 * Any questions?
@@ -29,3 +31,6 @@ Time estimate: 15 minutes
 
 include::money.asciidoc[]
 include::clothing-names.asciidoc[]
+
+include::review.asciidoc[]
+
