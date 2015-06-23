@@ -36,3 +36,13 @@ $50 - fifty
 
 $100 - one hundred (a "Benjamin")
 
+==== The price right!
+
+How much is a...
+
+- hat
+- pair of shoes
+- shirt
+- pair of jeans
+- skirt
+- more from pictures of clothes above...

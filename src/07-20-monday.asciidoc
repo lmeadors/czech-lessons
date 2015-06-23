@@ -22,17 +22,35 @@ Time estimate: 15 minutes (15/160)
 
 ==== Name tag question
 
-* Favorite way to spend your afternoon?
+* Choose your favorite food from this list:
+	- vocab
+	- words
+	- here
+
+Use food picture cards for these.
 
 ==== What is the Czech word of the day? ====
 
-* testing
+* Today's word is...
 
+==== Types of foods by meal
+
+* Breakfast
+* Lunch 
+* Dinner
+* Snacks
+
+Use food picture cards for these.
+
+BREAK
 
 include::groceries-a-to-z.asciidoc[]
+
+/////
 include::guess-who.asciidoc[]
 include::family-relationships.asciidoc[]
 include::idioms.asciidoc[]
+//// 
 
 include::review.asciidoc[]
 
