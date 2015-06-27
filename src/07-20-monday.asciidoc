@@ -23,11 +23,63 @@ Time estimate: 15 minutes (15/160)
 ==== Name tag question
 
 * Choose your favorite food from this list:
-	- vocab
-	- words
-	- here
 
-Use food picture cards for these.
+|=======
+^| apple ^| banana ^| bread ^| broccoli ^| cabbage 
+^| cake 
+^| candy 
+^| carrot
+^| celery 
+^| cheese 
+^| cheeseburger
+^| cherries
+^| chicken
+^| chocolate
+^| coffee
+^| cookies
+^| corn
+^| cornflakes
+^| cucumber
+^| egg
+^| fish
+^| french fries
+^| grapefruit
+^| grapes
+^| green onion
+^| ham
+^| hamburger
+^| hot dog
+^| ice cream
+^| jelly
+^| lemon
+^| lettuce
+^| melon
+^| milk
+^| nuts
+^| onion
+^| orange
+^| orange juice
+^| pancakes
+^| pear
+^| peas
+^| pineapple 
+^| pizza
+^| potato chips
+^| potatoes
+^| rice
+^| salad
+^| sandwich
+^| sausages
+^| soda
+^| spaghetti
+^| strawberry
+^| sweet potato
+^| tea
+^| toast
+^| tomato
+^| water
+^| watermelon
+|=======
 
 ==== What is the Czech word of the day? ====
 
@@ -44,7 +96,7 @@ Use food picture cards for these.
 
 BREAK
 
-include::groceries-a-to-z.asciidoc[]
+include::grocery-shopping.asciidoc[]
 
 /////
 include::guess-who.asciidoc[]

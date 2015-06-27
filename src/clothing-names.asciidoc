@@ -4,25 +4,25 @@
 Time estimate: 30 minutes
 ****************************************************************************
 
-==== What do you wear on your...
+include::what-do-you-wear-on-your.asciidoc[]
 
-- head
-- hands
-- feet
-- back
-- legs
 
 ==== Types of clothing
 
-* shirt
-* sweater
-* sweatshirt / hoodie
-* blouse
-* pants
-* shorts
-* tennis shoes
-* boots
-* skirt / dress
+|=======
+^| boots ^| coat ^| dress ^| gloves ^| hat
+^| jacket
+^| pajamas
+^| pants
+^| scarf
+^| shirt
+^| shoes
+^| shorts
+^| skirt
+^| socks
+^| sweater
+^| T-shirt
+|=======
 
 ==== Game - name the clothes
 

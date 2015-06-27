@@ -37,6 +37,24 @@ Have cards with pictures of these on them and describe who works at these places
 - bakery / baked good
 - gas station / cars
 
+|=======
+^| bank ^| bus stop ^| church
+^| city hall
+^| gas station
+^| hospital
+^| hotel
+^| library
+^| movie theater
+^| museum
+^| park
+^| police station
+^| post office
+^| restaurant
+^| school
+^| station
+^| supermarket
+^| university
+|=======
 
 ==== Grab the card
 
@@ -52,6 +70,9 @@ What do we do in these places?
 - bathroom - getting ready for the day or bed
 - bedroom - sleeping
 - garage - where the car lives
+
+
+bathroom, bedroom, kitchen, living room, laundry room
 
 Charades or pictionary - act out each of the activities in the list above and see who can guess it...
 

@@ -1,6 +1,7 @@
 #!/bin/bash
 export XML_CATALOG_FILES="/usr/local/etc/xml/catalog"
+export XSLT_PROC_PARAM="--stringparam  page.height 11in --stringparam  page.width 8.5in"
 
 #asciidoc -a toc -o ./out/book.html src/main.asciidoc
-a2x -fpdf -dbook --fop src/main.asciidoc && mv src/main.pdf out/
+a2x -fpdf -dbook --fop --fop-opts="-c fop.xml -v" --xsltproc-opts="$XSLT_PROC_PARAM" src/main.asciidoc && mv src/main.pdf out/
 #a2x -fepub -dbook src/main.asciidoc --destination-dir out
