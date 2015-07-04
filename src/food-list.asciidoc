@@ -1,0 +1,58 @@
+* Choose your favorite food from this list:
+
+|=======
+^| apple ^| banana ^| bread ^| broccoli ^| cabbage 
+^| cake 
+^| candy 
+^| carrot
+^| celery 
+^| cheese 
+^| cheeseburger
+^| cherries
+^| chicken
+^| chocolate
+^| coffee
+^| cookies
+^| corn
+^| cornflakes
+^| cucumber
+^| egg
+^| fish
+^| french fries
+^| grapefruit
+^| grapes
+^| green onion
+^| ham
+^| hamburger
+^| hot dog
+^| ice cream
+^| jelly
+^| lemon
+^| lettuce
+^| melon
+^| milk
+^| nuts
+^| onion
+^| orange
+^| orange juice
+^| pancakes
+^| pear
+^| peas
+^| pineapple 
+^| pizza
+^| potato chips
+^| potatoes
+^| rice
+^| salad
+^| sandwich
+^| sausages
+^| soda
+^| spaghetti
+^| strawberry
+^| sweet potato
+^| tea
+^| toast
+^| tomato
+^| water
+^| watermelon
+|=======

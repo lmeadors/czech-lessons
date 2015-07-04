@@ -19,14 +19,6 @@ Time estimate: 15 minutes
 Pictures of "wheres" and "whats" from next section - pass them out, then match them up.
 
 
-/////
-==== Two Truths and a Lie
-
-1. Write down two things that are true about you and one that is not. 
-2. Divide into teams of two.
-3. From your partner's statements guess which two things are true and which one is false.  
-//// 
-
 ==== What is the Czech word of the day?
 
 * Today's word is... 
@@ -35,10 +27,17 @@ Pictures of "wheres" and "whats" from next section - pass them out, then match t
 
 * Any questions?
 
+<<<
 
 include::clothing-names.asciidoc[]
+
+<<<
 
 include::money.asciidoc[]
 
 include::review.asciidoc[]
+
+==== Homework question
+
+Find one of the US team and ask them about their favorite shoes or shirt.
 

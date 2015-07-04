@@ -4,25 +4,10 @@
 Time estimate: 30 minutes
 ****************************************************************************
 
+include::types-of-clothes.asciidoc[]
+
 include::what-do-you-wear-on-your.asciidoc[]
 
-
-==== Types of clothing
-
-|=======
-^| boots ^| coat ^| dress ^| gloves ^| hat
-^| jacket
-^| pajamas
-^| pants
-^| scarf
-^| shirt
-^| shoes
-^| shorts
-^| skirt
-^| socks
-^| sweater
-^| T-shirt
-|=======
 
 ==== Game - name the clothes
 

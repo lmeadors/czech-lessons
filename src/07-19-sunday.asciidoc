@@ -5,7 +5,6 @@ Target time: 30 minutes
 ****************************************************************************
 
 
-
 === Ice-breaker / introductions
 
 ****************************************************************************
@@ -24,7 +23,7 @@ Time estimate: 25 minutes (25/30)
 ** More conversations?
 ** Are there things people want to spend more time on?
 
-
+<<<
 
 === Plan for the week
 

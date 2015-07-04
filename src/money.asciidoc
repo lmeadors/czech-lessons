@@ -4,37 +4,16 @@
 Time estimate: 30 minutes
 ****************************************************************************
 
-==== Coins
-
-Penny = $0.01
-
-Nickel = $0.05
-
-Dime = $0.10
-
-Quarter = $0.25
-
-Half Dollar = $0.50
-
-Silver Dollar = $1.00
-
-Golden Dollar = $1.00
-
-==== Bills (current)
-
-$1 - one
-
-$2 - two
-
-$5 - five
-
-$10 - ten
-
-$20 - twenty
-
-$50 - fifty
-
-$100 - one hundred (a "Benjamin")
+|======
+^| Coins                    ^| Bills (paper)
+^| Penny = $0.01            ^| $1 - one
+^| Nickel = $0.05           ^| $2 - two
+^| Dime = $0.10             ^| $5 - five
+^| Quarter = $0.25          ^| $10 - ten
+^| Half Dollar = $0.50      ^| $20 - twenty
+^| Silver Dollar = $1.00    ^| $50 - fifty
+^| Golden Dollar = $1.00    ^| $100 - one hundred (a "Benjamin")
+|======
 
 ==== The price right!
 
@@ -46,3 +25,7 @@ How much is a...
 - pair of jeans
 - skirt
 - more from pictures of clothes above...
+
+****************************************************************************
+GET PRICES AND PICTURES FOR CLOTHING ITEMS...
+****************************************************************************
