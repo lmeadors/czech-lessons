@@ -1,0 +1,15 @@
+|=======
+^| bath ^| bed ^| bookcase ^| cd player
+^| chair 
+^| clothes
+^| computer
+^| cupboard
+^| mirror
+^| picture
+^| refrigerator
+^| sink
+^| sofa
+^| table
+^| television
+^| toys
+|=======

@@ -1,0 +1,18 @@
+|=======
+^| bank ^| bus stop ^| church
+^| city hall
+^| gas station
+^| hospital
+^| hotel
+^| library
+^| movie theater
+^| museum
+^| park
+^| police station
+^| post office
+^| restaurant
+^| school
+^| station
+^| supermarket
+^| university
+|=======

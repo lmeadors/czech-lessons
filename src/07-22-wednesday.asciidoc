@@ -1,7 +1,14 @@
-== Wednesday 7-22 - Homes / buildings (170m)
+== Wednesday 7-22 - Homes / buildings
 
+****************************************************************************
+Target time: 160 minutes
+****************************************************************************
 
-=== Ice Breaker (15m) ===
+=== Ice breaker / Introduction
+
+****************************************************************************
+Time estimate: 15 minutes
+****************************************************************************
 
 ==== Name tag question: 
 
@@ -11,9 +18,12 @@
 
 The word of the day is...
 
-==== Map puzzle
+==== Map puzzles
 
-Flathead map drawing?
+Split into two groups and put the maps together:
+
+- kalispell
+- flathead valley
 
 === Review from Tuesday ===
 
@@ -23,62 +33,43 @@ Time estimate: 20 minutes
 
 * Any questions?
 
+<<<
 
 === Buildings in the community
 
-Have cards with pictures of these on them and describe who works at these places and what happens there or what you find here.
+Label the places on the map of Kalispell we built above. What happens in these places?
 
-- bank / money
-- library / book
-- church / bible or cross
-- grocery store / food
-- restaurant / menu
-- museum / painting
-- bakery / baked good
-- gas station / cars
+include::city-places.asciidoc[]
 
-|=======
-^| bank ^| bus stop ^| church
-^| city hall
-^| gas station
-^| hospital
-^| hotel
-^| library
-^| movie theater
-^| museum
-^| park
-^| police station
-^| post office
-^| restaurant
-^| school
-^| station
-^| supermarket
-^| university
-|=======
+/////
 
 ==== Grab the card
 
 - Draw an item and say what it is - the others grab the card for the location where that card would be found.
 
+//// 
+
 === Rooms in a house
 
 What do we do in these places?
 
-- living room - movies, reading, visiting with company
-- dining room - eating dinner, doing homework
-- kitchen - cooking, doing dishes
 - bathroom - getting ready for the day or bed
-- bedroom - sleeping
-- garage - where the car lives
+- bedroom - sleeping or playing
+- kitchen - cooking, doing dishes
+- living room - movies, reading, visiting with company
+- laundry room - washing clothes
 
+Charades or pictionary? - act out or draw each of the activities in the list above and see who can guess it.
 
-bathroom, bedroom, kitchen, living room, laundry room
+=== Things in a house
 
-Charades or pictionary - act out each of the activities in the list above and see who can guess it...
+Where would you find these things in a house?
+
+include::things-in-a-house.asciidoc[]
 
 include::review.asciidoc[]
 
 ==== Homework question
 
-Find one of the US team and ask them about their favorite shoes or shirt.
+Find two people from the US team and ask them about their home or where they work or school...
 

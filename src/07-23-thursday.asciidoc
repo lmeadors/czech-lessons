@@ -14,8 +14,58 @@
 
 * Any questions?
 
+=== Indoor activities
 
+|=======
+^| board games ^| card games
+^| foosball
+^| movies or TV
+^| playing music
+^| pool/billiards
+^| swimming
+^| video games
+|=======
 
+=== Outdoor activities
+
+|=======
+^| baseball ^| basketball
+^| bicycling
+^| boating
+^| camping
+^| driving
+^| football
+^| frisbee
+^| hiking
+^| kayaking
+^| rugby
+^| running
+^| skating (rollers or ice)
+^| skiing
+^| walking
+|=======
+
+<<<
+
+=== Vacation destinations in the US
+
+- beaches (ocean or lake)
+- disneyworld / disneyland
+- historical places
+- legoland
+- mountains
+- seaworld
+
+=== US holidays when people go on vacations
+
+- spring break
+- easter weekend
+- memorial day
+- summer break
+- independence day (4th of july)
+- labor day
+- thanksgiving
+- christmas
 
 include::review.asciidoc[]
 
