@@ -1,5 +1,3 @@
-* Choose your favorite food from this list:
-
 |=======
 ^| apple ^| banana ^| bread ^| broccoli ^| cabbage 
 ^| cake 

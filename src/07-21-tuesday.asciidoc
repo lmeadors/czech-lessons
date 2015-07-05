@@ -21,15 +21,23 @@ Pictures of "wheres" and "whats" from next section - pass them out, then match t
 
 ==== What is the Czech word of the day?
 
-* Today's word is... 
+* Today's word is...something related to clothing?
 
 ==== Review from Monday
 
 * Any questions?
 
+==== Today's topic
+
+Clothes, body parts, and colors.
+
 <<<
 
 include::clothing-names.asciidoc[]
+
+****************************************************************************
+Break time!
+****************************************************************************
 
 <<<
 
@@ -39,5 +47,5 @@ include::review.asciidoc[]
 
 ==== Homework question
 
-Find one of the US team and ask them about their favorite shoes or shirt.
+Find one of the US team and ask them about their favorite shoes or shirt or...
 

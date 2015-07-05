@@ -7,37 +7,47 @@ Target time: 160 minutes
 === Ice breaker / Introduction
 
 ****************************************************************************
-Time estimate: 15 minutes (15/160)
+Time estimate: 15 minutes
 ****************************************************************************
 
 ==== Tell us about yourself
 * What is your name?
 ** Hello, my name is Larry.
-* What is your wife/husband's name, and are they here?
+* Do you have any other family? Are they here?
 ** My wife's name is Darla and she is here at camp teaching the Adult-3 class.
+** My daughter's name is Micah and she is also here teaching a class.
+** My sons' names are Brandon and David, too!
+** Brandon was here last year, but is not this year.
+** David will be here with us but only for a few days. :(
 * Do you have a job?
 ** I work from my home as a computer programmer. 
 * Do you have any hobbies?
 ** When I am not working, I like to play guitar, ride my bike, ski, or kayak.
 
+==== Today's topic
+
+FOOD!
+
 <<<
 
 ==== Name tag question
 
+* Choose your favorite food from this list:
+
 include::food-list.asciidoc[]
 
-==== What is the Czech word of the day? ====
+==== What is the Czech word of the day?
 
-* Today's word is...
+* Today's word is...something related to food?
 
 ==== Types of foods by meal
+
+Sort through the food picture cards and group them by category:
 
 * Breakfast
 * Lunch 
 * Dinner
 * Snacks
-
-Use food picture cards for these.
 
 ****************************************************************************
 Break time!
